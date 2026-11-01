@@ -1,0 +1,74 @@
+[
+  {
+    "question": "At roughly what altitude does outer space begin?",
+    "answerable": true,
+    "expected_source": "sample2.txt",
+    "keywords": ["100 kilometers", "62 miles"]
+  },
+  {
+    "question": "What fills the vacuum of space besides emptiness?",
+    "answerable": true,
+    "expected_source": "sample2.txt",
+    "keywords": ["gas", "dust"]
+  },
+  {
+    "question": "How many players are on each side in a cricket match?",
+    "answerable": true,
+    "expected_source": "sample3.txt",
+    "keywords": ["eleven"]
+  },
+  {
+    "question": "What are the different formats cricket is played in?",
+    "answerable": true,
+    "expected_source": "sample3.txt",
+    "keywords": ["T20", "Test"]
+  },
+  {
+    "question": "Which body governs international cricket?",
+    "answerable": true,
+    "expected_source": "sample3.txt",
+    "keywords": ["International Cricket Council"]
+  },
+  {
+    "question": "How would you define artificial intelligence?",
+    "answerable": true,
+    "expected_source": "sample4.txt",
+    "keywords": ["smart machines", "human intelligence"]
+  },
+  {
+    "question": "What tasks does AI perform that normally need human intelligence?",
+    "answerable": true,
+    "expected_source": "sample4.txt",
+    "keywords": ["learning", "reasoning"]
+  },
+  {
+    "question": "At what voltage does the transmission level of the grid operate?",
+    "answerable": true,
+    "expected_source": "sample1.txt",
+    "keywords": ["132 kV"]
+  },
+  {
+    "question": "What voltage does the distribution network run at?",
+    "answerable": true,
+    "expected_source": "sample1.txt",
+    "keywords": ["33 kV"]
+  },
+  {
+    "question": "What was Julius Caesar thinking before he crossed the Rubicon?",
+    "answerable": false,
+    "expected_source": null,
+    "keywords": []
+  },
+  {
+    "question": "What were the total sales figures for Q3 in the annual report?",
+    "answerable": false,
+    "expected_source": null,
+    "keywords": []
+  },
+  {
+    "question": "Who is the emergency contact for employee John Doe?",
+    "answerable": false,
+    "expected_source": null,
+    "keywords": []
+  }
+]
