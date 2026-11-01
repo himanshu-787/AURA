@@ -1,0 +1,7 @@
+Grid Architecture Details
+Voltage Levels: The system is split into distinct voltage zones. The transmission level (Buses 1 to 5) typically operates at 132 kV, while the distribution/sub-transmission network (Buses 6 and 9 to 14) operates at 33 kV. 
+Control Elements: The network features an overabundance of voltage control capabilities via its 5 generators and 5 transformers (three of which commonly model a single three-winding transformer arrangement). 
+
+Alroomi Website
+ +1
+Software Implementation: DIgSILENT PowerFactory includes this model as a standard built-in literature example (starting in version 15.0), frequently utilized for load flow analysis, short-circuit diagnostics, and dynamic RMS protection stability studies.
